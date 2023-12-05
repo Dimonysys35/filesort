@@ -1,0 +1,43 @@
+{
+    "video": ["mp4", "mov", "avi", "mkv", "wmv", "3gp", "3g2", "mpg", "mpeg", "m4v",
+                  "h264", "flv", "rm", "swf", "vob"],
+    
+        "data": ["sql", "sqlite", "sqlite3", "csv", "dat", "db", "log", "mdb", "sav",
+                 "tar", "xml", "json", "accdb"],
+    
+        "audio": ["mp3", "wav", "ogg", "flac", "aif", "mid", "midi", "mpa", "wma", "wpl",
+                  "cda", "m4a"],
+    
+        "image": ["jpg", "png", "bmp", "ai", "psd", "ico", "jpeg", "ps", "svg", "tif",
+                  "tiff", "webp", "jfif"],
+    
+        "archive": ["zip", "rar", "7z", "z", "gz", "rpm", "arj", "pkg", "deb"],
+    
+        "text": ["pdf", "txt", "doc", "docx", "rtf", "tex", "wpd", "odt", "fb2", "djvu"],
+    
+        "3d": ["stl", "obj", "fbx", "dae", "3ds", "iges", "step", "blend"],
+    
+        "presentation": ["pptx", "ppt", "pps", "key", "odp", "ppsx"],
+    
+        "spreadsheet": ["xlsx", "xls", "xlsm", "ods"],
+    
+        "font": ["otf", "ttf", "fon", "fnt"],
+    
+        "gif": ["gif"],
+    
+        "exe": ["exe"],
+    
+        "iso": ["iso"],
+    
+        "ova": ["ova"],
+    
+        "msi": ["msi"],
+    
+        "bat": ["bat"],
+    
+        "apk": ["apk"],
+    
+        "sourcecode": ["py", "js", "cpp", "css", "html", "php", "asm", "c"],
+    
+        "torrents": ["torrent"]
+    }
